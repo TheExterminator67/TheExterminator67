@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://sultanalnuaimi.com"><img src="https://img.shields.io/badge/Portfolio-sultanalnuaimi.com-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sultan-al-nuaimi-33003339b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sultan.express123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://sultanalnuaimi.com/resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-555?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
